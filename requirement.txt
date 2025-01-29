@@ -1,0 +1,7 @@
+Pillow
+pytesseract
+pyautoguic:\Users\Ernesto\Downloads\7ca246d3-f283-428f-8d17-2fcd88337c8c.jpg
+
+
+
+https://github.com/psf/requests-html/issues/568
