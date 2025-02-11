@@ -1,0 +1,1 @@
+Running a program that takes periodical screenshot from Human Machine Interface(HMI) and sends it to the cloud to get the data using Optical Character Recognition(OCR) and monitoring the system for breakdown or any anomalies.
